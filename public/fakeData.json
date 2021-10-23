@@ -1,0 +1,68 @@
+[
+	{
+        "id":1,
+		"currency": "$49.93",
+		"name": "Muscle Monsters",
+		"AlreadyAdmitted": 17,
+		"details":"To perform circuits, a person completes 30–60 second rounds of each chosen exercise in succession before resting for 30–60 seconds. They then perform the entire course again, as many times as they prefer.",
+        "img":"https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?size=338&ext=jpg"
+	},
+	{"id":22,
+		"currency": "$68.26",
+		"name": "Gym Hero.",
+		"AlreadyAdmitted": 15,
+		"details":"As a concept, a health club is more similar to a fitness center than a gym. The focus is on the whole-body wellness rather than just physical fitness. In fact, every high-end gym and fitness center can be classified as a health center, due to the variety of amenities.",
+        "img":"https://image.freepik.com/free-photo/sporty-strong-girl-black-tracksuit-sits-exercises-gym_338491-10608.jpg"
+	},
+	{"id":12,
+		"currency": "$48.43",
+		"name": "Kardio Work.",
+		"AlreadyAdmitted": 23,
+		"details":"To perform circuits, a person completes 30–60 second rounds of each chosen exercise in succession before resting for 30–60 seconds.",
+        "img":"https://image.freepik.com/free-photo/person-doing-exercise-living-room_151013-12002.jpg"
+	},
+	{"id":11,
+		"currency": "$39.37",
+		"name": "Fit and Lift Gym Center.",
+		"AlreadyAdmitted": 17,
+		"details":"People do not need a lot of equipment for cardiovascular exercise. Instead, they can take part in cardio training at home by working their own body weight.",
+        "img":"https://image.freepik.com/free-photo/strong-man-training-gym_1303-23897.jpg"
+	},
+	{"id":10,
+		"currency": "$39.23",
+		"name": "Caldwell",
+		"AlreadyAdmitted": 13,
+		"details":"Start your fitness journey here.We will transform your body",
+        "img":"https://image.freepik.com/free-photo/sporty-strong-girl-black-tracksuit-sits-exercises-gym_338491-10608.jpg"
+	},
+        {"id":2,
+            "name": "Carlos Rivas",
+            "currency": "$31.48",
+            "AlreadyAdmitted": 19,
+			"details":"People do not need a lot of equipment for cardiovascular exercise. Instead, they can take part in cardio training at home by working their own body weight.",
+			"img":"https://img.freepik.com/free-photo/professional-athlete-blue-shirt_151013-11253.jpg?size=338&ext=jpg"
+        },
+		{"id":212,
+            "name": "Sivaem Rivas",
+			"img":"https://image.freepik.com/free-photo/indoor-shot-positive-bearded-male-casual-red-t-shirt-points-with-index-finger-aside_273609-16274.jpg",
+			"graduate":"bachelor's degree such as exercise science,University of Georgia"
+		},
+		{"id":213,
+            "name": "Showrav Diago",
+			"details":"As a concept, a health club is more similar to a fitness center than a gym. The focus is on the whole-body wellness rather than just physical fitness. In fact, every high-end gym and fitness center can be classified as a health center, due to the variety of amenities.",
+			"img":"https://image.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg",
+			"graduate":"Masters of Science in Exercise Science,Marshall University."
+		},
+		{"id":214,
+            "name": "Steve Simth",
+			"img":"https://image.freepik.com/free-photo/image-excited-smiling-man-showing-black-friday-offers-pointing-finger-right-looking-amazed-standing-yellow-background_1258-40799.jpg",
+			"graduate":"Masters of Science in Exercise Science,Marshall University."
+		},
+		{"id":215,
+            "name": "Stve Hokie",
+			"img":"https://image.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg",
+			"graduate":"bachelor's degree in a related field such as kinesiology"
+		}
+
+	]
+        
